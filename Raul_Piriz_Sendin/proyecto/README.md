@@ -4,5 +4,6 @@ Mi Proyecto de Examen
 git clone
 git commit
 git push
-Linea modificada desde rama main por Raul Piriz Sendin
 Linea creada en rama main para que genere conflicto por Raul Piriz
+Añado linea nueva para generar conflicto desde rama conflicto por Raul Piriz
+
